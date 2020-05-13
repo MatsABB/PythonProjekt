@@ -4,3 +4,8 @@ val simulator.
 
 ### Beskrivningar
 I videofilen här i repositoryn förklarar jag funktions, system och detailjbeskrivning över mitt projekt.
+
+### Planering (Pseudokod)
+
+1. 
+2. Gör en dictionary för alla partier med ett max/minimi procent. Vilket block de tillhör samt politisk inriktning. (Vänster/höger)
