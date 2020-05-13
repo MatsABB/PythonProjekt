@@ -3,7 +3,7 @@ Tjenare! Det här är mitt mini-projekt. Jag har valt att göra det i python. Mi
 val simulator. 
 
 ### Beskrivningar
-I videofilen här i repositoryn förklarar jag funktions, system och detailjbeskrivning över mitt projekt.
+
 
 ### Planering (Pseudokod)
 
