@@ -7,5 +7,11 @@ I videofilen här i repositoryn förklarar jag funktions, system och detailjbesk
 
 ### Planering (Pseudokod)
 
-1. 
-2. Gör en dictionary för alla partier med ett max/minimi procent. Vilket block de tillhör samt politisk inriktning. (Vänster/höger)
+1. Importera talsyntes och en randomiser.
+2. Gör en dictionary för alla partier med en max/minimi procent. Vilket block de tillhör samt politisk inriktning. (Vänster/höger)
+3. Fråga användaren hur många som deltog i valet.
+4. Slumpa resultat av alla som får rösta.
+5. Räkna procenten av alla deltagande.
+5. Överstiger resultatet 100% är det något fel. Valfusk kan råda! Ta bort och slumpa på nytt.
+6. Gör en talsyntes som läser statistiken av valdeltagandet samt talar om det.
+
